@@ -1,0 +1,309 @@
+    1  vi
+    2  ls
+    3  cd documents
+    4  ls
+    5  cd github
+    6  git init
+    7  cd hometask
+    8  ls
+    9  git add .
+   10  git status
+   11  git status
+   12  git add.
+   13  git add .
+   14  git commit -m "fg"
+   15  git config --global user.email "alezi77@rambler.ru"‘
+   16  git config --global user.name "ASas77"
+   17  git commit -m
+   18  git commit 
+   19  cd documents
+   20  cd github
+   21  git status
+   22  git commit -m"hg"
+   23  git push
+   24  git remote add <name> <url>
+   25  git remote add hometask https://github.com/ASas77/Hometask
+   26  git push
+   27  git push hometask
+   28  git push --set-upstream hometask master
+   29  git pull
+   30  ~~~~~~~~~~~~~Function Key 11Function Key 11Function Key 11Function Key 11Function Key 11~~
+   31   git branch --set-upstream-to=hometask/master master
+   32  git push -u
+   33  git push -f
+   34  git remote -v
+   35  git push master
+   36   git push --set-upstream master master
+   37  git push
+   38  git remote add origin git@github.com:github.com/ASas77/Hometask
+   39  git push --set-upstream origin master
+   40  ssh generate
+   41  ssh-keygen -o
+   42  ls
+   43  cd documents/github
+   44  ssh-keygen -o
+   45  pwd
+   46  cd E:\Java\JavaSergej
+   47  cd E:\\Java\\JavaSergej
+   48  git clone https://github.com/sergeylukichev/JavaCourse.git
+   49  cd JavaCourse
+   50  git pull
+   51  git status
+   52  git add .
+   53  git commit -m"re"
+   54  git push
+   55  git pull
+   56  ls
+   57  cd ..
+   58  ls
+   59  cd ..
+   60  ls
+   61  cd ..
+   62  ls
+   63  cd ..
+   64  ls
+   65  cd ..
+   66  ls
+   67  cd usr
+   68  ls
+   69  cd C:\Users\alezi
+   70  cd \Users\alezi
+   71  ls
+   72  cd etc
+   73  ls
+   74  cd ..
+   75  ls
+   76  cd /c/Users/alezi
+   77  ls
+   78  cd documents
+   79  cd github
+   80  git status
+   81  git commit -a
+   82  git add .
+   83  git status
+   84  git commit -m"gf"
+   85  git push
+   86  git push --set-upstream origin master
+   87  git init
+   88  git add .
+   89  git commit -a
+   90  git push
+   91  git push --set-upstream origin master
+   92  ssh-keygen -o
+   93  git init
+   94  git add README.md
+   95  git commit -m "first commit"
+   96  git remote add origin https://github.com/ASas77/Hometask1.git
+   97  git push -u origin master
+   98  ssh-add ~/.ssh/id_rsa
+   99  ssh-keygen -t rsa -b 4096 -C "alezi77@rambler.ru"
+  100  git add .
+  101  eval "$(ssh-agent -s)"
+  102  eval $(ssh-agent -s)
+  103  ssh-add -l
+  104  git init
+  105  cd
+  106  cd Downloads
+  107  ls
+  108  grep andrew
+  109  cd
+  110  cd Dounloaws
+  111  cd Downloads
+  112  ls| grep andrew
+  113  ls - la | grep andrew
+  114  ls -la | grep andrew
+  115  pwd
+  116  ssh -i /home/Downloads/andrew.pem ec2-user
+  117  ssh -i /home/Downloads/andrew.pem ec2-user@18.195.187.26
+  118  chmod 400 andrew.pem
+  119  ssh -i /home/Downloads/andrew.pem ec2-user@18.195.187.26
+  120  ssh -i ~/Downloads/andrew.pem ec2-user@18.195.187.26
+  121  [ec2-user@ip-172-31-46-16 ~]$ nano
+  122  [ec2-user@ip-172-31-46-16 ~]$ nano /tmp/
+  123  vi
+  124  nano /tmp/script1.sh
+  125  nano /tmp/script1.sh
+  126  cat /tmp/script1
+  127  nano /tmp/script1.sh
+  128  [ec2-user@ip-172-31-46-16 ~]$ bash script1.sh
+  129  [ec2-user@ip-172-31-46-16 ~]$ nano
+  130  nano /tmp/script1.sh
+  131  sudo crontab -l
+  132  [ec2-user@ip-172-31-46-16 ~]$ sudo cat messeges | grep boot
+  133  [ec2-user@ip-172-31-46-16 ~]$ sudo cat messages | grep boot
+  134  node
+  135  npm
+  136  mkdir Homework
+  137  cd Homework/
+  138  git clone git@github.com:dev-tim/js-couse-3-4.git
+  139  cd js-couse-3-4/
+  140  git status
+  141  git pull
+  142  code .
+  143  node index.js
+  144  cd 01-intro-js/
+  145  node index.js
+  146  npm init -y
+  147  npm start
+  148  npm start
+  149  ls
+  150  ls -la
+  151  pwd
+  152  git ststis
+  153  git status
+  154  cd /E:/JavaScr
+  155  cd /E:/JavaScr/
+  156  cd \E:\JavaScr\
+  157  git clone https://github.com/ASas77/js-couse-3-4.git .
+  158  git checkout -b DZ-02/Alesia
+  159  git checkout master 
+  160  git pull origin master
+  161  git remote -v
+  162  git remote add git@github.com:dev-tim/js-couse-3-4.git
+  163  git checkout DZ-02/Alesia
+  164  git remote add master git@github.com:dev-tim/js-couse-3-4.git
+  165  git remote -v
+  166  git pull origin master
+  167  git pull origin master
+  168  git checkout -b DZ-03/Alesia
+  169  git checkout DZ-02/Alesia
+  170  git remote - v
+  171  git remote -v
+  172  git remote rm origin
+  173  git remote rm jsforkAlesia
+  174  git remote -v
+  175  git remote add alesia git@github.com:ASas77/js-couse-3-4.git
+  176  git remote add artem git@github.com:dev-tim/js-couse-3-4.git
+  177  git status
+  178  git log
+  179  git branch 
+  180  ls
+  181  cd ..
+  182  cd ..
+  183  ls
+  184  cd JavaScr/
+  185  ls
+  186  cd js-couse-3-4/
+  187  ks
+  188  git remote 0v
+  189  git remote -v
+  190  git remote add upsteam
+  191  git remote add upsteam git@github.com:ASas77/js-couse-3-4.git
+  192  git status
+  193  git push upsteam dz-01/homeworkAlesia 
+  194  cd ..
+  195  cd  ..
+  196  ls
+  197  cd JavaScr/
+  198  ls
+  199  cd HomeWorkAlesia/
+  200  git checkout master
+  201  git pull artem master
+  202  git branch 
+  203  git fetch 
+  204  git branch 
+  205  git pull alesia dz-01/homeworkAlesia
+  206  cd ..
+  207  ls
+  208  rm -rf js-couse-3-4/
+  209  ls
+  210  cd HomeWorkAlesia/
+  211  ls
+  212  git branch
+  213  cd 01-intro-js/
+  214  npm i
+  215  npm install
+  216  npm install
+  217  npm install -d
+  218  git status
+  219  git status
+  220  git status
+  221  git add
+  222  git add .
+  223  git commit -m "Progress DZ 3"
+  224  git push origin alesia
+  225  git push alesia
+  226  git remote -v
+  227  git push alesia
+  228  git remote -v
+  229  git remote add jsfork alesia
+  230  git push
+  231  git push alesia
+  232  git push artem
+  233  git status
+  234  pwd
+  235  git clone git@github.com:ASas77/Hometask.git
+  236  pwd
+  237  ls-la
+  238  ls -la
+  239  git status
+  240  pwd
+  241  ls
+  242  ls -la
+  243  cd Hometask/
+  244  ls ÃŸla
+  245  ls -la
+  246  git status
+  247  git checkout -b GH-1 BranchName
+  248  git checkout -b GH-1-BranchName
+  249  git status
+  250  git status
+  251  git add
+  252  git add .
+  253  git commit -m "dobavila knopku"
+  254  git push
+  255  git push --set-upstream origin GH-1-BranchName
+  256  git status
+  257  git checkout master
+  258  ls
+  259  git checkout GH-1-BranchName
+  260  ls
+  261  git checkout master
+  262  ls
+  263  git pull
+  264  ls
+  265  pwd
+  266  cd ..
+  267  cd ..
+  268  pwd
+  269  ls
+  270  cd js-couse-3-4/
+  271  git status
+  272  git pull
+  273  ls
+  274  ls -la
+  275  cd HomeWorkAlesia
+  276  cd ../HomeWorkAlesia
+  277  ls
+  278  git pull
+  279  pwd
+  280  git pull origin master
+  281  git status 
+  282  ls
+  283  cd ..
+  284  ls
+  285  cd js-couse-3-4/
+  286  cat .git/config 
+  287  git pull origin master
+  288  git remote -v
+  289  git fetch upstream
+  290  git fetch upstream
+  291  git fetch dev-tim/js-couse-3-4
+  292  git remote add upstream https://github.com/dev-tim/js-couse-3-4
+  293  git fetch upstream
+  294  ls
+  295  git checkout master
+  296  git merge upstream/master
+  297  ls
+  298  history
+  299  ls
+  300  git status 
+  301  vi .git/config 
+  302  git add * 
+  303  git push
+  304  git status 
+  305  git add * 
+  306  git commit -m "test commit HW"
+  307  git push
+  308  history
+  309  history > /tmp/myhistory
