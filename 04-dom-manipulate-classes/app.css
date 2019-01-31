@@ -1,0 +1,28 @@
+body {
+    background: lightsteelblue;
+}
+
+div {
+    position: relative;
+    transition: width 0.5s;
+}
+
+.bigDiv{
+    top: 20%;
+    left: 20%;
+}
+
+.smallDiv {
+    top: 30%;
+    left: 30%;
+}
+
+
+.big {
+    width: 400px;
+}
+
+.small {
+    width: 200px;
+}
+
